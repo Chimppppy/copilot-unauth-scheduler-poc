@@ -1,5 +1,8 @@
 # CoPilot Scheduler Authentication Bypass PoC
 
+<img width="1515" height="472" alt="image" src="https://github.com/user-attachments/assets/622e6498-b876-41c7-81ac-172c43ca3c62" />
+
+
 This repository contains a proof of concept for an **authentication bypass affecting the scheduler router** in CoPilot.
 
 ## Summary
